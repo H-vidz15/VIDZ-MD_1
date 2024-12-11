@@ -10,7 +10,7 @@
  
   <p align="center">  
   <a href="https://i.imgur.com/tmnnQZc.jpeg">
-    <img alt="vidz-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+    <img alt="vidz-md" height="300" src="https://i.imgur.com/tP4vlxV.jpg">
     
   
   </a>
