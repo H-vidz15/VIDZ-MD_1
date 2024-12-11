@@ -49,7 +49,7 @@
 
 ---
 
-|**[`VIDZ`](https://github.com/prabathLK)**|
+|**[`VIDZ`](https://github.com/H-vidz15/)**|
 
 <br>
 <br>
