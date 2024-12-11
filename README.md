@@ -9,7 +9,7 @@
 <br>
  
   <p align="center">  
-  <a href="https://i.imgur.com/tmnnQZc.jpeg">
+  <a href="https://i.imgur.com/tmnnQZc.jpg">
     <img alt="vidz-md" height="300" src="https://i.imgur.com/tP4vlxV.jpg">
     
   
@@ -44,14 +44,14 @@
 
 ---
 
-<a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com Vidz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ---
 
 ## 🔥 **`VIDZ-MD_1 BOT OWNERS,`** 🔥
 
 
-   <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+   <a href="https://github.com/prabathLK/"><img src="https://i.imgur.com/w5SiQOH.jpg" width=80 height=80></a>   
 
 ---
 
