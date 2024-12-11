@@ -32,11 +32,11 @@
 
 ---
 
-<a href="https://www.prabath-md-official-web.com/"><img src="https://img.shields.io/badge/DEPLOY-greeen" alt="Create prabath-md bot" width="150"></a>
+<a href="https://https://t-for-t.vercel.app//"><img src="https://img.shields.io/badge/DEPLOY-greeen" alt="Create Vidz-Md_1 bot" width="150"></a>
 
 <br>
 
-[![FORK PRABATH-MD](https://img.shields.io/badge/FORK%20-PRABATHMD-white)](https://github.com/prabathLK/PRABATHMD/fork)
+[![FORK VIDZ-MD_1](https://img.shields.io/badge/FORK%20-PRABATHMD-white)](https://github.com/prabathLK/PRABATHMD/fork)
 
  ---
  
