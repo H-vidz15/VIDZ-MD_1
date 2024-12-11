@@ -1,7 +1,7 @@
 {
     "name": "VIDZ-MD_1",
     "version": "2.1.4",
-    "description": "PRABATHMD(PMD) is a Normal Whatsapp bot.  🧘🏼‍♂️",
+    "description": "VIDZ-MD_1 is a Normal Whatsapp bot.  🧘🏼‍♂️",
     "main": "start.js",
     "scripts": {
         "start": "pm2 start start.js --deep-monitoring --attach --name wabot-vidz-md_1",
