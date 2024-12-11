@@ -32,7 +32,7 @@
 
 ---
 
-<a href="https://https://t-for-t.vercel.app//"><img src="https://img.shields.io/badge/DEPLOY-greeen" alt="Create Vidz-Md_1 bot" width="150"></a>
+<a href="https://shocked-estele-vidz-b30ac15d.koyeb.app/"><img src="https://img.shields.io/badge/PAIR-CODE-greeen" alt="Create Vidz-Md_1 bot" width="150"></a>
 
 <br>
 
