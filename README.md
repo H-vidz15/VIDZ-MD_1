@@ -42,7 +42,7 @@
 
 ---
 
-## 🔥 **`VIDZ-MD_1 BOT OWNERS,`** 🔥
+## 🔥 **`VIDZ-MD_1 BOT OWNER,`** 🔥
 
 
    <a href="https://github.com/prabathLK/"><img src="https://i.imgur.com/w5SiQOH.jpg" width=80 height=80></a>   
