@@ -1,15 +1,14 @@
-/*
+/**
 ▒▐▌▒▐▌░▐██░▐█▀█▄▒▐█▀▀▀█▌▒▐██▄▒▄██▌░▐█▀█▄▒▄█░ 
 ░▒█▒█░─░█▌░▐█▌▐█░▒▄▄█▀▀░░▒█░▒█░▒█░░▐█▌▐█░▒█░ 
 ░▒▀▄▀░░▐██░▐█▄█▀▒▐█▄▄▄█▌▒▐█░░░░▒█▌░▐█▄█▀▒▄█▄ 
 
 
 
-
 * @project_name VIDZMD1 
-* @authors VIDZ
+* @author by VIDZ
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
-* @link <https://github.com/>
+* @link <https://github.com/H-vidz15/VIDZ-MD_1.git>
 * @version 2.1.3
 
 © 2024 HILTON, WHATSAPP-BOT. All rights reserved.
