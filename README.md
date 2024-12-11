@@ -36,15 +36,9 @@
 
 <br>
 
-[![FORK VIDZ-MD_1](https://img.shields.io/badge/FORK%20-PRABATHMD-white)](https://github.com/prabathLK/PRABATHMD/fork)
+[![FORK VIDZ-MD_1](https://img.shields.io/badge/FORK%20-VIDZ-MD-1-white)](https://github.com/H-vidz15/VIDZ-MD_1/fork)
 
  ---
- 
-<a href="https://prabath-md-terms-and-rules.vercel.app/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="DEPLOY" width="270"></a>
-
----
-
-<a href="https://www.buymeacoffee.com Vidz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ---
 
@@ -56,11 +50,6 @@
 ---
 
 |**[`VIDZ`](https://github.com/prabathLK)**|
-
----
-
-
----
 
 <br>
 <br>
